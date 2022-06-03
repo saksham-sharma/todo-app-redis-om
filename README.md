@@ -6,6 +6,8 @@ This a ToDo app using React (with Typescript) and [Redis OM](https://github.com/
 
 Launch `npm install` to install all the dependencies.
 
+Build application first to compile ts into js with `npm run build`.
+
 Launch the Express back-end with `npm run express` (port: 5000).
 
 Launch the application with `npm run start` to run the application and browse to it at [http://localhost:4200/](http://localhost:4200/).
